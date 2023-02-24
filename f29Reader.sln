@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "f29Reader", "f29Reader\f29Reader.csproj", "{1559E00C-F530-4499-999D-7F8FFF62C0FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing", "Testing\Testing.csproj", "{737D1A09-C9DD-47F9-9011-A3E4EB2D68B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1559E00C-F530-4499-999D-7F8FFF62C0FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1559E00C-F530-4499-999D-7F8FFF62C0FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1559E00C-F530-4499-999D-7F8FFF62C0FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1559E00C-F530-4499-999D-7F8FFF62C0FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{737D1A09-C9DD-47F9-9011-A3E4EB2D68B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{737D1A09-C9DD-47F9-9011-A3E4EB2D68B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{737D1A09-C9DD-47F9-9011-A3E4EB2D68B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{737D1A09-C9DD-47F9-9011-A3E4EB2D68B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
